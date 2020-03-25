@@ -11,6 +11,7 @@ namespace GitBody
         static void Main(string[] args)
         {
             Console.WriteLine("Hello world");
+            Console.WriteLine("This is a change");
             Console.ReadLine();
         }
     }
