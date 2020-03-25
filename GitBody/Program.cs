@@ -12,7 +12,7 @@ namespace GitBody
         {
             Console.WriteLine("Hello world");
             Console.WriteLine("This is a change");
-            Console.WriteLine("Hello Matt!");
+            
             Console.ReadLine();
         }
     }
